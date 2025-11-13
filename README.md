@@ -1,5 +1,7 @@
 # 🌐 Lonar – Your Intelligent Personal Assistant
 
+
+you can try Lonar at [https://leonardocofone.github.io/LonarAI/](https://leonardocofone.github.io/LonarAI/)
 Lonar is both a website and a PWA app that brings together **artificial intelligence, productivity, and spirituality**.  
 The goal is to offer a **complete personal assistant**, capable of managing everything you need daily — agenda, tasks, emails, documents, reminders, and even a morning spiritual briefing — all in one unified platform.
 
