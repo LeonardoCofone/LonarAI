@@ -1,16 +1,16 @@
-# 🌐 Lexor – Your Intelligent Personal Assistant
+# 🌐 Lonar – Your Intelligent Personal Assistant
 
-Lexor is both a website and a PWA app that brings together **artificial intelligence, productivity, and spirituality**.  
+Lonar is both a website and a PWA app that brings together **artificial intelligence, productivity, and spirituality**.  
 The goal is to offer a **complete personal assistant**, capable of managing everything you need daily — agenda, tasks, emails, documents, reminders, and even a morning spiritual briefing — all in one unified platform.
 
 ---
 
 ## ✨ Vision
 
-The idea behind Lexor is simple:  
+The idea behind Lonar is simple:  
 > “One single assistant that knows you, your time, your work, and your soul.”
 
-Lexor is not just another AI that answers questions — it’s a **digital companion** that:
+Lonar is not just another AI that answers questions — it’s a **digital companion** that:
 - organizes your day and appointments;  
 - manages calendars, tasks, documents, and emails;  
 - communicates in multiple languages with a natural tone;  
@@ -88,10 +88,10 @@ SITE/
 
 ---
 
-## 🧠 What Lexor Can Do
+## 🧠 What Lonar Can Do
 
 ### 🗓️ Personal organization
-Lexor automatically syncs your calendars, tasks, and reminders from Google or your local system.  
+Lonar automatically syncs your calendars, tasks, and reminders from Google or your local system.  
 You can ask: “What do I have to do today?” or “Add a meeting tomorrow at 3 PM.”
 
 ### 💌 Smart email
@@ -105,7 +105,7 @@ Replies in multiple languages (Italian, English, Spanish, French, German, Portug
 Automatically detects the language you write in.
 
 ### ☀️ Daily briefing
-Every morning, Lexor generates a personalized summary with the **weather, agenda, news**, and all your tasks.
+Every morning, Lonar generates a personalized summary with the **weather, agenda, news**, and all your tasks.
 
 ### 💰 Finance and productivity
 Tracks expenses, projects, and completed tasks, also generating summary reports.
@@ -117,7 +117,7 @@ Tracks expenses, projects, and completed tasks, also generating summary reports.
 1. **Login or register** (Google OAuth supported).  
 2. The backend creates a personal file in the `data/` folder with your info.  
 3. Once authenticated, you access the **main PWA dashboard**.  
-4. From there, you can chat with Lexor, check your schedule, and receive notifications and briefings.
+4. From there, you can chat with Lonar, check your schedule, and receive notifications and briefings.
 
 ---
 
@@ -136,7 +136,7 @@ Tracks expenses, projects, and completed tasks, also generating summary reports.
 ## 🔒 Security & Privacy
 
 All data is **stored locally** on the server in the `backend/data` folder.  
-Nothing is shared with **any third parties** — each user has a **separate, encrypted file**, updated only by Lexor.
+Nothing is shared with **any third parties** — each user has a **separate, encrypted file**, updated only by Lonar.
 
 ---
 
@@ -144,7 +144,7 @@ Nothing is shared with **any third parties** — each user has a **separate, enc
 
 **Leonardo Cofone**  
 Student and developer passionate about **Artificial Intelligence**, programming, and Christian faith.  
-Lexor was born from the desire to build an AI that **helps people in both their practical and spiritual life**, combining **technology and humanity**.
+Lonar was born from the desire to build an AI that **helps people in both their practical and spiritual life**, combining **technology and humanity**.
 
 > “AI, not magic.”  
 > — *Leonardo Cofone*

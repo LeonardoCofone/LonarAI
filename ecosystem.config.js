@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: "lexor-backend",
+      name: "lonar-backend",
       script: "./backend/server.js",
       cwd: "./backend",
       watch: false,
@@ -14,7 +14,7 @@ module.exports = {
       }
     },
     {
-      name: "lexor-refresh",
+      name: "lonar-refresh",
       script: "./backend/refreshTokens.js",
       cwd: "./backend",
       watch: false,
